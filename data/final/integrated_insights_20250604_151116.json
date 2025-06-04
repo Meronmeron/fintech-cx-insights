@@ -1,0 +1,165 @@
+{
+  "analysis_timestamp": "20250604_151116",
+  "data_overview": {
+    "total_reviews": 413,
+    "banks": [
+      "Commercial Bank of Ethiopia",
+      "Bank of Abyssinia",
+      "Dashen Bank"
+    ],
+    "date_range": {
+      "start": "2023-06-06",
+      "end": "2025-06-03"
+    }
+  },
+  "sentiment_insights": {
+    "total_reviews": 413,
+    "analysis_timestamp": "2025-06-04T15:12:03.160433",
+    "models_used": [
+      "VADER",
+      "TextBlob",
+      "DistilBERT"
+    ],
+    "overall_sentiment_distribution": {
+      "Positive": 0.6077481840193705,
+      "Neutral": 0.2687651331719128,
+      "Negative": 0.1234866828087167
+    },
+    "bank_sentiment_distribution": {
+      "Bank of Abyssinia": {
+        "Negative": 0.1223021582733813,
+        "Neutral": 0.2949640287769784,
+        "Positive": 0.5827338129496403
+      },
+      "Commercial Bank of Ethiopia": {
+        "Negative": 0.1328125,
+        "Neutral": 0.2578125,
+        "Positive": 0.609375
+      },
+      "Dashen Bank": {
+        "Negative": 0.11643835616438356,
+        "Neutral": 0.2534246575342466,
+        "Positive": 0.6301369863013698
+      }
+    },
+    "rating_sentiment_correlation": 0.5878555335733621
+  },
+  "thematic_insights": {
+    "analysis_timestamp": "2025-06-04T15:12:05.039556",
+    "banks_analyzed": [
+      "Commercial Bank of Ethiopia",
+      "Bank of Abyssinia",
+      "Dashen Bank"
+    ],
+    "total_themes_identified": 7,
+    "bank_specific_insights": {
+      "Commercial Bank of Ethiopia": {
+        "review_count": 128,
+        "primary_themes": [
+          [
+            "User Interface & Experience",
+            6
+          ],
+          [
+            "Customer Support",
+            4
+          ],
+          [
+            "Transaction Performance",
+            4
+          ]
+        ],
+        "concern_areas": [],
+        "positive_aspects": []
+      },
+      "Bank of Abyssinia": {
+        "review_count": 139,
+        "primary_themes": [
+          [
+            "Customer Support",
+            7
+          ],
+          [
+            "Technical Issues",
+            3
+          ],
+          [
+            "Features & Functionality",
+            2
+          ]
+        ],
+        "concern_areas": [],
+        "positive_aspects": []
+      },
+      "Dashen Bank": {
+        "review_count": 146,
+        "primary_themes": [
+          [
+            "User Interface & Experience",
+            7
+          ],
+          [
+            "Customer Support",
+            6
+          ],
+          [
+            "Technical Issues",
+            3
+          ]
+        ],
+        "concern_areas": [],
+        "positive_aspects": []
+      }
+    },
+    "cross_bank_patterns": {
+      "most_common_themes": [
+        [
+          "Customer Support",
+          17
+        ],
+        [
+          "User Interface & Experience",
+          15
+        ],
+        [
+          "Technical Issues",
+          9
+        ],
+        [
+          "Features & Functionality",
+          6
+        ],
+        [
+          "Transaction Performance",
+          6
+        ]
+      ],
+      "industry_wide_concerns": [
+        "Customer Support",
+        "User Interface & Experience",
+        "Technical Issues",
+        "Features & Functionality",
+        "Transaction Performance",
+        "Security & Trust"
+      ]
+    },
+    "recommendations": [
+      "Priority: Address app stability and technical issues across all platforms",
+      "Enhancement: Continue UI/UX improvements based on user feedback"
+    ]
+  },
+  "key_findings": [
+    "Customer sentiment: 60.8% positive, 12.3% negative",
+    "Most prevalent theme: Customer Support across all banks",
+    "Commercial Bank of Ethiopia: Primary concern is User Interface & Experience",
+    "Bank of Abyssinia: Primary concern is Customer Support",
+    "Dashen Bank: Primary concern is User Interface & Experience"
+  ],
+  "recommendations": [
+    "Priority: Address app stability and technical issues across all platforms",
+    "Enhancement: Continue UI/UX improvements based on user feedback",
+    "Implement continuous sentiment monitoring for real-time insights",
+    "Develop bank-specific improvement strategies based on identified themes",
+    "Create customer feedback loop to validate improvements"
+  ]
+}

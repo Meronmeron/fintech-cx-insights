@@ -1,0 +1,1078 @@
+{
+  "Commercial Bank of Ethiopia": {
+    "total_reviews": 128,
+    "tfidf_keywords": [
+      [
+        "experience",
+        0.050191974986698015
+      ],
+      [
+        "service",
+        0.030256725176096975
+      ],
+      [
+        "still",
+        0.02895499738604308
+      ],
+      [
+        "user",
+        0.027261139847438835
+      ],
+      [
+        "update",
+        0.026687527320343327
+      ],
+      [
+        "features",
+        0.02515878498875244
+      ],
+      [
+        "months",
+        0.023676579100243518
+      ],
+      [
+        "using",
+        0.023676579100243518
+      ],
+      [
+        "using months",
+        0.023676579100243518
+      ],
+      [
+        "transactions",
+        0.022144445312309483
+      ],
+      [
+        "overall",
+        0.021999065578654105
+      ],
+      [
+        "overall satisfied",
+        0.021999065578654105
+      ],
+      [
+        "overall satisfied service",
+        0.021999065578654105
+      ],
+      [
+        "satisfied",
+        0.021999065578654105
+      ],
+      [
+        "satisfied service",
+        0.021999065578654105
+      ],
+      [
+        "user experience",
+        0.02128621929520041
+      ],
+      [
+        "banks",
+        0.020458498433340418
+      ],
+      [
+        "banks experience",
+        0.020458498433340418
+      ],
+      [
+        "comparing",
+        0.020458498433340418
+      ],
+      [
+        "comparing banks",
+        0.020458498433340418
+      ],
+      [
+        "comparing banks experience",
+        0.020458498433340418
+      ],
+      [
+        "still experience",
+        0.02030976014027599
+      ],
+      [
+        "update still",
+        0.02030976014027599
+      ],
+      [
+        "update still experience",
+        0.02030976014027599
+      ],
+      [
+        "works",
+        0.020125800682704094
+      ],
+      [
+        "needs",
+        0.01937382211962527
+      ],
+      [
+        "continue",
+        0.019300694270190256
+      ],
+      [
+        "continue improve",
+        0.019300694270190256
+      ],
+      [
+        "hope",
+        0.019300694270190256
+      ],
+      [
+        "hope continue",
+        0.019300694270190256
+      ]
+    ],
+    "spacy_keywords": [],
+    "bigrams": [
+      [
+        "using months",
+        18
+      ],
+      [
+        "overall satisfied",
+        17
+      ],
+      [
+        "satisfied service",
+        17
+      ],
+      [
+        "comparing banks",
+        15
+      ],
+      [
+        "banks experience",
+        15
+      ],
+      [
+        "update still",
+        15
+      ],
+      [
+        "still experience",
+        15
+      ],
+      [
+        "hope continue",
+        14
+      ],
+      [
+        "continue improve",
+        14
+      ],
+      [
+        "user experience",
+        13
+      ],
+      [
+        "still opinion",
+        10
+      ],
+      [
+        "account balance",
+        9
+      ],
+      [
+        "customer service",
+        8
+      ],
+      [
+        "experience features",
+        8
+      ],
+      [
+        "best used",
+        7
+      ],
+      [
+        "used transaction",
+        7
+      ],
+      [
+        "transaction history",
+        7
+      ],
+      [
+        "history clear",
+        7
+      ],
+      [
+        "clear detailed",
+        7
+      ],
+      [
+        "works fine",
+        7
+      ]
+    ],
+    "trigrams": [
+      [
+        "overall satisfied service",
+        17
+      ],
+      [
+        "comparing banks experience",
+        15
+      ],
+      [
+        "update still experience",
+        15
+      ],
+      [
+        "hope continue improve",
+        14
+      ],
+      [
+        "best used transaction",
+        7
+      ],
+      [
+        "used transaction history",
+        7
+      ],
+      [
+        "transaction history clear",
+        7
+      ],
+      [
+        "history clear detailed",
+        7
+      ],
+      [
+        "outdated interface confusing",
+        6
+      ],
+      [
+        "interface confusing navigation",
+        6
+      ],
+      [
+        "confusing navigation needs",
+        6
+      ],
+      [
+        "navigation needs complete",
+        6
+      ],
+      [
+        "needs complete redesign",
+        6
+      ],
+      [
+        "convenient paying bills",
+        6
+      ],
+      [
+        "paying bills checking",
+        6
+      ]
+    ],
+    "themes": {
+      "Customer Support": {
+        "keywords": [
+          "service",
+          "overall satisfied service",
+          "satisfied service",
+          "customer service"
+        ],
+        "score": 1.1749999999999998,
+        "matches": 4
+      },
+      "User Interface & Experience": {
+        "keywords": [
+          "user",
+          "using",
+          "user experience",
+          "history clear detailed",
+          "outdated interface confusing",
+          "interface confusing navigation"
+        ],
+        "score": 1.1500000000000001,
+        "matches": 6
+      },
+      "Technical Issues": {
+        "keywords": [
+          "update",
+          "update still",
+          "update still experience"
+        ],
+        "score": 1.0333333333333332,
+        "matches": 3
+      },
+      "Features & Functionality": {
+        "keywords": [
+          "features",
+          "experience features"
+        ],
+        "score": 0.5,
+        "matches": 2
+      },
+      "Transaction Performance": {
+        "keywords": [
+          "transactions",
+          "best used transaction",
+          "used transaction history",
+          "transaction history clear"
+        ],
+        "score": 0.9500000000000001,
+        "matches": 4
+      },
+      "Security & Trust": {
+        "keywords": [
+          "still opinion"
+        ],
+        "score": 0.5,
+        "matches": 1
+      },
+      "Account Access Issues": {
+        "keywords": [
+          "account balance"
+        ],
+        "score": 0.8,
+        "matches": 1
+      }
+    },
+    "top_keywords": [
+      "experience",
+      "service",
+      "still",
+      "user",
+      "update",
+      "features",
+      "months",
+      "using",
+      "using months",
+      "transactions",
+      "overall",
+      "overall satisfied",
+      "overall satisfied service",
+      "satisfied",
+      "satisfied service",
+      "user experience",
+      "banks",
+      "banks experience",
+      "comparing",
+      "comparing banks",
+      "update still",
+      "still experience",
+      "hope continue",
+      "continue improve",
+      "still opinion"
+    ]
+  },
+  "Bank of Abyssinia": {
+    "total_reviews": 139,
+    "tfidf_keywords": [
+      [
+        "experience",
+        0.04700157320846376
+      ],
+      [
+        "still",
+        0.029187495065704002
+      ],
+      [
+        "features",
+        0.027931764079026165
+      ],
+      [
+        "update",
+        0.025912225809288786
+      ],
+      [
+        "continue",
+        0.02467453124127249
+      ],
+      [
+        "continue improve",
+        0.02467453124127249
+      ],
+      [
+        "hope",
+        0.02467453124127249
+      ],
+      [
+        "hope continue",
+        0.02467453124127249
+      ],
+      [
+        "hope continue improve",
+        0.02467453124127249
+      ],
+      [
+        "improve",
+        0.02467453124127249
+      ],
+      [
+        "service",
+        0.024295611180414546
+      ],
+      [
+        "works",
+        0.023531678096045495
+      ],
+      [
+        "banks",
+        0.0234794399331154
+      ],
+      [
+        "banks experience",
+        0.0234794399331154
+      ],
+      [
+        "comparing",
+        0.0234794399331154
+      ],
+      [
+        "comparing banks",
+        0.0234794399331154
+      ],
+      [
+        "comparing banks experience",
+        0.0234794399331154
+      ],
+      [
+        "user",
+        0.02105094581777827
+      ],
+      [
+        "still experience",
+        0.02082044211416268
+      ],
+      [
+        "update still",
+        0.02082044211416268
+      ],
+      [
+        "update still experience",
+        0.02082044211416268
+      ],
+      [
+        "account",
+        0.020230504063538716
+      ],
+      [
+        "needs",
+        0.01978863483880567
+      ],
+      [
+        "overall",
+        0.019745035188259437
+      ],
+      [
+        "overall satisfied",
+        0.019745035188259437
+      ],
+      [
+        "overall satisfied service",
+        0.019745035188259437
+      ],
+      [
+        "satisfied",
+        0.019745035188259437
+      ],
+      [
+        "satisfied service",
+        0.019745035188259437
+      ],
+      [
+        "months",
+        0.019543643619694816
+      ],
+      [
+        "using",
+        0.019543643619694816
+      ]
+    ],
+    "spacy_keywords": [],
+    "bigrams": [
+      [
+        "hope continue",
+        21
+      ],
+      [
+        "continue improve",
+        21
+      ],
+      [
+        "comparing banks",
+        20
+      ],
+      [
+        "banks experience",
+        20
+      ],
+      [
+        "update still",
+        17
+      ],
+      [
+        "still experience",
+        17
+      ],
+      [
+        "overall satisfied",
+        16
+      ],
+      [
+        "satisfied service",
+        16
+      ],
+      [
+        "using months",
+        15
+      ],
+      [
+        "still opinion",
+        11
+      ],
+      [
+        "account balance",
+        10
+      ],
+      [
+        "user experience",
+        9
+      ],
+      [
+        "works fine",
+        8
+      ],
+      [
+        "features work",
+        8
+      ],
+      [
+        "smooth efficient",
+        7
+      ],
+      [
+        "efficient customer",
+        7
+      ],
+      [
+        "customer support",
+        7
+      ],
+      [
+        "support responsive",
+        7
+      ],
+      [
+        "quick secure",
+        6
+      ],
+      [
+        "secure payments",
+        6
+      ]
+    ],
+    "trigrams": [
+      [
+        "hope continue improve",
+        21
+      ],
+      [
+        "comparing banks experience",
+        20
+      ],
+      [
+        "update still experience",
+        17
+      ],
+      [
+        "overall satisfied service",
+        16
+      ],
+      [
+        "smooth efficient customer",
+        7
+      ],
+      [
+        "efficient customer support",
+        7
+      ],
+      [
+        "customer support responsive",
+        7
+      ],
+      [
+        "quick secure payments",
+        6
+      ],
+      [
+        "secure payments works",
+        6
+      ],
+      [
+        "payments works perfectly",
+        6
+      ],
+      [
+        "fast money transfer",
+        6
+      ],
+      [
+        "money transfer feature",
+        6
+      ],
+      [
+        "transfer feature amazing",
+        6
+      ],
+      [
+        "feature amazing long",
+        6
+      ],
+      [
+        "amazing long queues",
+        6
+      ]
+    ],
+    "themes": {
+      "Features & Functionality": {
+        "keywords": [
+          "features",
+          "features work"
+        ],
+        "score": 0.5,
+        "matches": 2
+      },
+      "Technical Issues": {
+        "keywords": [
+          "update",
+          "update still",
+          "update still experience"
+        ],
+        "score": 1.0333333333333332,
+        "matches": 3
+      },
+      "Customer Support": {
+        "keywords": [
+          "service",
+          "satisfied service",
+          "overall satisfied service",
+          "smooth efficient customer",
+          "efficient customer support",
+          "customer support responsive",
+          "quick secure payments"
+        ],
+        "score": 1.1285714285714286,
+        "matches": 7
+      },
+      "User Interface & Experience": {
+        "keywords": [
+          "user",
+          "user experience"
+        ],
+        "score": 0.4,
+        "matches": 2
+      },
+      "Security & Trust": {
+        "keywords": [
+          "still opinion",
+          "secure payments works"
+        ],
+        "score": 0.65,
+        "matches": 2
+      },
+      "Account Access Issues": {
+        "keywords": [
+          "account balance"
+        ],
+        "score": 0.8,
+        "matches": 1
+      },
+      "Transaction Performance": {
+        "keywords": [
+          "payments works perfectly"
+        ],
+        "score": 0.5,
+        "matches": 1
+      }
+    },
+    "top_keywords": [
+      "experience",
+      "still",
+      "features",
+      "update",
+      "continue",
+      "continue improve",
+      "hope",
+      "hope continue",
+      "hope continue improve",
+      "improve",
+      "service",
+      "works",
+      "banks",
+      "banks experience",
+      "comparing",
+      "comparing banks",
+      "comparing banks experience",
+      "user",
+      "still experience",
+      "update still",
+      "overall satisfied",
+      "satisfied service",
+      "using months",
+      "still opinion",
+      "account balance"
+    ]
+  },
+  "Dashen Bank": {
+    "total_reviews": 146,
+    "tfidf_keywords": [
+      [
+        "experience",
+        0.049848809768583274
+      ],
+      [
+        "service",
+        0.0323386210902024
+      ],
+      [
+        "user",
+        0.02918530887731009
+      ],
+      [
+        "still",
+        0.028981049269441058
+      ],
+      [
+        "update",
+        0.02824800057684504
+      ],
+      [
+        "features",
+        0.02500905582592614
+      ],
+      [
+        "continue",
+        0.02497191869217601
+      ],
+      [
+        "continue improve",
+        0.02497191869217601
+      ],
+      [
+        "hope",
+        0.02497191869217601
+      ],
+      [
+        "hope continue",
+        0.02497191869217601
+      ],
+      [
+        "hope continue improve",
+        0.02497191869217601
+      ],
+      [
+        "improve",
+        0.02497191869217601
+      ],
+      [
+        "works",
+        0.024218199472326302
+      ],
+      [
+        "transactions",
+        0.0238294132832299
+      ],
+      [
+        "overall",
+        0.02271413034729269
+      ],
+      [
+        "overall satisfied",
+        0.02271413034729269
+      ],
+      [
+        "overall satisfied service",
+        0.02271413034729269
+      ],
+      [
+        "satisfied",
+        0.02271413034729269
+      ],
+      [
+        "satisfied service",
+        0.02271413034729269
+      ],
+      [
+        "still experience",
+        0.022414167242335543
+      ],
+      [
+        "update still",
+        0.022414167242335543
+      ],
+      [
+        "update still experience",
+        0.022414167242335543
+      ],
+      [
+        "needs",
+        0.021366414149030195
+      ],
+      [
+        "user experience",
+        0.020655343679427743
+      ],
+      [
+        "banks",
+        0.019873139752187026
+      ],
+      [
+        "banks experience",
+        0.019873139752187026
+      ],
+      [
+        "comparing",
+        0.019873139752187026
+      ],
+      [
+        "comparing banks",
+        0.019873139752187026
+      ],
+      [
+        "comparing banks experience",
+        0.019873139752187026
+      ],
+      [
+        "months",
+        0.019707939974810604
+      ]
+    ],
+    "spacy_keywords": [],
+    "bigrams": [
+      [
+        "hope continue",
+        23
+      ],
+      [
+        "continue improve",
+        23
+      ],
+      [
+        "overall satisfied",
+        21
+      ],
+      [
+        "satisfied service",
+        21
+      ],
+      [
+        "update still",
+        19
+      ],
+      [
+        "still experience",
+        19
+      ],
+      [
+        "comparing banks",
+        17
+      ],
+      [
+        "banks experience",
+        17
+      ],
+      [
+        "using months",
+        15
+      ],
+      [
+        "user experience",
+        14
+      ],
+      [
+        "customer service",
+        11
+      ],
+      [
+        "works fine",
+        11
+      ],
+      [
+        "features work",
+        9
+      ],
+      [
+        "still opinion",
+        9
+      ],
+      [
+        "simple transactions",
+        8
+      ],
+      [
+        "account balance",
+        7
+      ],
+      [
+        "great user",
+        7
+      ],
+      [
+        "experience design",
+        7
+      ],
+      [
+        "design modern",
+        7
+      ],
+      [
+        "modern intuitive",
+        7
+      ]
+    ],
+    "trigrams": [
+      [
+        "hope continue improve",
+        23
+      ],
+      [
+        "overall satisfied service",
+        21
+      ],
+      [
+        "update still experience",
+        19
+      ],
+      [
+        "comparing banks experience",
+        17
+      ],
+      [
+        "great user experience",
+        7
+      ],
+      [
+        "user experience design",
+        7
+      ],
+      [
+        "experience design modern",
+        7
+      ],
+      [
+        "design modern intuitive",
+        7
+      ],
+      [
+        "outstanding customer service",
+        7
+      ],
+      [
+        "customer service highly",
+        7
+      ],
+      [
+        "service highly recommended",
+        7
+      ],
+      [
+        "regular works fine",
+        6
+      ],
+      [
+        "works fine checking",
+        6
+      ],
+      [
+        "fine checking balance",
+        6
+      ],
+      [
+        "checking balance simple",
+        6
+      ]
+    ],
+    "themes": {
+      "Customer Support": {
+        "keywords": [
+          "service",
+          "overall satisfied service",
+          "satisfied service",
+          "customer service",
+          "outstanding customer service",
+          "customer service highly"
+        ],
+        "score": 1.3166666666666664,
+        "matches": 6
+      },
+      "User Interface & Experience": {
+        "keywords": [
+          "user",
+          "user experience",
+          "simple transactions",
+          "great user experience",
+          "user experience design",
+          "experience design modern",
+          "design modern intuitive"
+        ],
+        "score": 1.0714285714285714,
+        "matches": 7
+      },
+      "Technical Issues": {
+        "keywords": [
+          "update",
+          "update still",
+          "update still experience"
+        ],
+        "score": 1.0333333333333332,
+        "matches": 3
+      },
+      "Features & Functionality": {
+        "keywords": [
+          "features",
+          "features work"
+        ],
+        "score": 0.5,
+        "matches": 2
+      },
+      "Transaction Performance": {
+        "keywords": [
+          "transactions"
+        ],
+        "score": 0.5,
+        "matches": 1
+      },
+      "Security & Trust": {
+        "keywords": [
+          "still opinion"
+        ],
+        "score": 0.5,
+        "matches": 1
+      }
+    },
+    "top_keywords": [
+      "experience",
+      "service",
+      "user",
+      "still",
+      "update",
+      "features",
+      "continue",
+      "continue improve",
+      "hope",
+      "hope continue",
+      "hope continue improve",
+      "improve",
+      "works",
+      "transactions",
+      "overall",
+      "overall satisfied",
+      "overall satisfied service",
+      "satisfied",
+      "satisfied service",
+      "still experience",
+      "update still",
+      "comparing banks",
+      "banks experience",
+      "using months",
+      "user experience"
+    ]
+  }
+}

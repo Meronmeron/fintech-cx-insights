@@ -1,0 +1,32 @@
+{
+  "total_reviews": 413,
+  "analysis_timestamp": "2025-06-04T15:12:03.160433",
+  "models_used": [
+    "VADER",
+    "TextBlob",
+    "DistilBERT"
+  ],
+  "overall_sentiment_distribution": {
+    "Positive": 0.6077481840193705,
+    "Neutral": 0.2687651331719128,
+    "Negative": 0.1234866828087167
+  },
+  "bank_sentiment_distribution": {
+    "Bank of Abyssinia": {
+      "Negative": 0.1223021582733813,
+      "Neutral": 0.2949640287769784,
+      "Positive": 0.5827338129496403
+    },
+    "Commercial Bank of Ethiopia": {
+      "Negative": 0.1328125,
+      "Neutral": 0.2578125,
+      "Positive": 0.609375
+    },
+    "Dashen Bank": {
+      "Negative": 0.11643835616438356,
+      "Neutral": 0.2534246575342466,
+      "Positive": 0.6301369863013698
+    }
+  },
+  "rating_sentiment_correlation": 0.5878555335733621
+}

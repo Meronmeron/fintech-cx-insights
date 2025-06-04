@@ -1,0 +1,104 @@
+{
+  "analysis_timestamp": "2025-06-04T15:12:05.039556",
+  "banks_analyzed": [
+    "Commercial Bank of Ethiopia",
+    "Bank of Abyssinia",
+    "Dashen Bank"
+  ],
+  "total_themes_identified": 7,
+  "bank_specific_insights": {
+    "Commercial Bank of Ethiopia": {
+      "review_count": 128,
+      "primary_themes": [
+        [
+          "User Interface & Experience",
+          6
+        ],
+        [
+          "Customer Support",
+          4
+        ],
+        [
+          "Transaction Performance",
+          4
+        ]
+      ],
+      "concern_areas": [],
+      "positive_aspects": []
+    },
+    "Bank of Abyssinia": {
+      "review_count": 139,
+      "primary_themes": [
+        [
+          "Customer Support",
+          7
+        ],
+        [
+          "Technical Issues",
+          3
+        ],
+        [
+          "Features & Functionality",
+          2
+        ]
+      ],
+      "concern_areas": [],
+      "positive_aspects": []
+    },
+    "Dashen Bank": {
+      "review_count": 146,
+      "primary_themes": [
+        [
+          "User Interface & Experience",
+          7
+        ],
+        [
+          "Customer Support",
+          6
+        ],
+        [
+          "Technical Issues",
+          3
+        ]
+      ],
+      "concern_areas": [],
+      "positive_aspects": []
+    }
+  },
+  "cross_bank_patterns": {
+    "most_common_themes": [
+      [
+        "Customer Support",
+        17
+      ],
+      [
+        "User Interface & Experience",
+        15
+      ],
+      [
+        "Technical Issues",
+        9
+      ],
+      [
+        "Features & Functionality",
+        6
+      ],
+      [
+        "Transaction Performance",
+        6
+      ]
+    ],
+    "industry_wide_concerns": [
+      "Customer Support",
+      "User Interface & Experience",
+      "Technical Issues",
+      "Features & Functionality",
+      "Transaction Performance",
+      "Security & Trust"
+    ]
+  },
+  "recommendations": [
+    "Priority: Address app stability and technical issues across all platforms",
+    "Enhancement: Continue UI/UX improvements based on user feedback"
+  ]
+}
