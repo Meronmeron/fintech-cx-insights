@@ -1,0 +1,439 @@
+{
+  "Positive": {
+    "review_count": 251,
+    "top_keywords": [
+      [
+        "experience",
+        0.043154634637336355
+      ],
+      [
+        "features",
+        0.03339476710303643
+      ],
+      [
+        "service",
+        0.03171937828196783
+      ],
+      [
+        "works",
+        0.029298588448673606
+      ],
+      [
+        "still",
+        0.027494082231208812
+      ],
+      [
+        "continue",
+        0.027474617966755776
+      ],
+      [
+        "continue improve",
+        0.027474617966755776
+      ],
+      [
+        "hope",
+        0.027474617966755776
+      ],
+      [
+        "hope continue",
+        0.027474617966755776
+      ],
+      [
+        "hope continue improve",
+        0.027474617966755776
+      ],
+      [
+        "improve",
+        0.027474617966755776
+      ],
+      [
+        "user",
+        0.02729454807783264
+      ],
+      [
+        "update",
+        0.02520057166546226
+      ],
+      [
+        "secure",
+        0.02470607953656645
+      ],
+      [
+        "overall",
+        0.024351227113166507
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "hope continue",
+        50
+      ],
+      [
+        "continue improve",
+        50
+      ],
+      [
+        "overall satisfied",
+        42
+      ],
+      [
+        "satisfied service",
+        42
+      ],
+      [
+        "using months",
+        27
+      ],
+      [
+        "update still",
+        27
+      ],
+      [
+        "still experience",
+        27
+      ],
+      [
+        "comparing banks",
+        25
+      ],
+      [
+        "banks experience",
+        25
+      ],
+      [
+        "works fine",
+        25
+      ]
+    ],
+    "themes": {
+      "Features & Functionality": {
+        "keywords": [
+          "features"
+        ],
+        "score": 0.5,
+        "matches": 1
+      },
+      "Customer Support": {
+        "keywords": [
+          "service",
+          "satisfied service"
+        ],
+        "score": 1.15,
+        "matches": 2
+      },
+      "User Interface & Experience": {
+        "keywords": [
+          "user"
+        ],
+        "score": 0.5,
+        "matches": 1
+      },
+      "Technical Issues": {
+        "keywords": [
+          "update",
+          "update still"
+        ],
+        "score": 1.15,
+        "matches": 2
+      },
+      "Security & Trust": {
+        "keywords": [
+          "secure"
+        ],
+        "score": 1.5,
+        "matches": 1
+      }
+    }
+  },
+  "Negative": {
+    "review_count": 51,
+    "top_keywords": [
+      [
+        "experience",
+        0.090109107555837
+      ],
+      [
+        "nothing",
+        0.047464855068901815
+      ],
+      [
+        "service",
+        0.04369226549117998
+      ],
+      [
+        "complaints",
+        0.03981819118281509
+      ],
+      [
+        "complaints errors",
+        0.03981819118281509
+      ],
+      [
+        "customer",
+        0.03981819118281509
+      ],
+      [
+        "customer service",
+        0.03981819118281509
+      ],
+      [
+        "customer service response",
+        0.03981819118281509
+      ],
+      [
+        "errors",
+        0.03981819118281509
+      ],
+      [
+        "poor",
+        0.03981819118281509
+      ],
+      [
+        "poor customer",
+        0.03981819118281509
+      ],
+      [
+        "poor customer service",
+        0.03981819118281509
+      ],
+      [
+        "response",
+        0.03981819118281509
+      ],
+      [
+        "response complaints",
+        0.03981819118281509
+      ],
+      [
+        "response complaints errors",
+        0.03981819118281509
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "poor customer",
+        9
+      ],
+      [
+        "customer service",
+        9
+      ],
+      [
+        "service response",
+        9
+      ],
+      [
+        "response complaints",
+        9
+      ],
+      [
+        "complaints errors",
+        9
+      ],
+      [
+        "outdated interface",
+        8
+      ],
+      [
+        "interface confusing",
+        8
+      ],
+      [
+        "confusing navigation",
+        8
+      ],
+      [
+        "navigation needs",
+        8
+      ],
+      [
+        "needs complete",
+        8
+      ]
+    ],
+    "themes": {
+      "Customer Support": {
+        "keywords": [
+          "service",
+          "customer",
+          "customer service",
+          "customer service response",
+          "poor customer",
+          "poor customer service",
+          "response",
+          "response complaints",
+          "response complaints errors",
+          "poor customer",
+          "customer service",
+          "service response",
+          "response complaints"
+        ],
+        "score": 1.4846153846153847,
+        "matches": 13
+      },
+      "Transaction Performance": {
+        "keywords": [
+          "complaints errors",
+          "errors",
+          "complaints errors",
+          "needs complete"
+        ],
+        "score": 0.575,
+        "matches": 4
+      },
+      "User Interface & Experience": {
+        "keywords": [
+          "outdated interface",
+          "interface confusing",
+          "confusing navigation",
+          "navigation needs"
+        ],
+        "score": 1.4000000000000001,
+        "matches": 4
+      }
+    }
+  },
+  "Neutral": {
+    "review_count": 111,
+    "top_keywords": [
+      [
+        "experience",
+        0.057378019743058756
+      ],
+      [
+        "account",
+        0.04029120659087378
+      ],
+      [
+        "still",
+        0.03532199516271634
+      ],
+      [
+        "balance",
+        0.03422180979584747
+      ],
+      [
+        "issues",
+        0.03420909446364729
+      ],
+      [
+        "update",
+        0.033360347877054636
+      ],
+      [
+        "needs",
+        0.03305253598249882
+      ],
+      [
+        "banks",
+        0.03293242423156649
+      ],
+      [
+        "banks experience",
+        0.03293242423156649
+      ],
+      [
+        "comparing",
+        0.03293242423156649
+      ],
+      [
+        "comparing banks",
+        0.03293242423156649
+      ],
+      [
+        "comparing banks experience",
+        0.03293242423156649
+      ],
+      [
+        "account balance",
+        0.032137449035457566
+      ],
+      [
+        "transactions",
+        0.031579539680469795
+      ],
+      [
+        "never",
+        0.029634978864231856
+      ]
+    ],
+    "top_bigrams": [
+      [
+        "account balance",
+        20
+      ],
+      [
+        "comparing banks",
+        19
+      ],
+      [
+        "banks experience",
+        19
+      ],
+      [
+        "update still",
+        17
+      ],
+      [
+        "still experience",
+        17
+      ],
+      [
+        "using months",
+        14
+      ],
+      [
+        "standard room",
+        11
+      ],
+      [
+        "room improvement",
+        11
+      ],
+      [
+        "improvement user",
+        11
+      ],
+      [
+        "user experience",
+        11
+      ]
+    ],
+    "themes": {
+      "Account Access Issues": {
+        "keywords": [
+          "account",
+          "account balance",
+          "account balance"
+        ],
+        "score": 1.0333333333333332,
+        "matches": 3
+      },
+      "Transaction Performance": {
+        "keywords": [
+          "balance",
+          "transactions"
+        ],
+        "score": 1.0,
+        "matches": 2
+      },
+      "Technical Issues": {
+        "keywords": [
+          "issues",
+          "update",
+          "update still"
+        ],
+        "score": 0.9333333333333332,
+        "matches": 3
+      },
+      "User Interface & Experience": {
+        "keywords": [
+          "improvement user",
+          "user experience"
+        ],
+        "score": 0.3,
+        "matches": 2
+      }
+    }
+  }
+}

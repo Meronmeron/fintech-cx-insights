@@ -12,4 +12,18 @@ wordcloud==1.9.2
 scikit-learn==1.3.2
 nltk==3.8.1
 tqdm==4.66.1
-python-dateutil==2.8.2 
+python-dateutil==2.8.2
+
+# Task 2 - Sentiment Analysis & NLP
+transformers==4.36.0
+torch==2.1.0
+vaderSentiment==3.3.2
+spacy==3.7.2
+en-core-web-sm==3.7.1
+gensim==4.3.2
+wordcloud==1.9.2
+
+# Additional analysis libraries
+scipy==1.11.4
+plotly-express==0.4.1
+dash==2.14.2 

@@ -1,0 +1,16 @@
+bank,rating,vader_compound,vader_positive,vader_neutral,vader_negative,textblob_polarity,textblob_subjectivity,distilbert_positive,distilbert_negative,distilbert_confidence,ensemble_confidence
+Bank of Abyssinia,1,-0.028,0.103,0.766,0.131,-0.151,0.448,0.0,0.0,0.0,0.681
+Bank of Abyssinia,2,-0.127,0.062,0.81,0.128,-0.173,0.425,0.0,0.0,0.0,0.704
+Bank of Abyssinia,3,0.351,0.188,0.787,0.025,0.209,0.423,0.0,0.0,0.0,0.65
+Bank of Abyssinia,4,0.733,0.356,0.639,0.006,0.337,0.511,0.0,0.0,0.0,0.676
+Bank of Abyssinia,5,0.597,0.301,0.68,0.019,0.252,0.46,0.0,0.0,0.0,0.667
+Commercial Bank of Ethiopia,1,0.075,0.154,0.708,0.138,-0.124,0.45,0.0,0.0,0.0,0.595
+Commercial Bank of Ethiopia,2,-0.218,0.043,0.785,0.172,-0.219,0.472,0.0,0.0,0.0,0.714
+Commercial Bank of Ethiopia,3,0.407,0.203,0.768,0.029,0.212,0.423,0.0,0.0,0.0,0.633
+Commercial Bank of Ethiopia,4,0.664,0.327,0.664,0.01,0.289,0.493,0.0,0.0,0.0,0.685
+Commercial Bank of Ethiopia,5,0.669,0.292,0.708,0.0,0.378,0.475,0.0,0.0,0.0,0.667
+Dashen Bank,1,0.169,0.148,0.76,0.092,-0.104,0.403,0.0,0.0,0.0,0.697
+Dashen Bank,2,-0.047,0.104,0.748,0.147,-0.15,0.476,0.0,0.0,0.0,0.676
+Dashen Bank,3,0.423,0.2,0.787,0.014,0.196,0.387,0.0,0.0,0.0,0.659
+Dashen Bank,4,0.696,0.344,0.649,0.006,0.34,0.527,0.0,0.0,0.0,0.675
+Dashen Bank,5,0.659,0.309,0.684,0.007,0.304,0.469,0.0,0.0,0.0,0.667
